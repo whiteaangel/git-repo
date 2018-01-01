@@ -1,1 +1,2 @@
 Debug.log("Hello World");
+Debug.log("Hello People");
